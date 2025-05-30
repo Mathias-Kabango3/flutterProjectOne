@@ -33,7 +33,7 @@ A simple and elegant Flutter app that converts temperatures between Fahrenheit a
 
 1. Clone the repository:
    git clone https://github.com/Mathias-Kabango3/flutterProjectOne/
-   cd temp-converter-flutter
+   cd flutter_first_project
 2. Install dependencies and run the app:
    flutter pub get
    flutter run
