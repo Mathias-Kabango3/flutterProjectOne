@@ -19,7 +19,7 @@ class _TemperatureConverterState extends State<TemperatureConverter> with Single
   void initState() {
     super.initState();
     _animationController = AnimationController(
-      duration: Duration(milliseconds: 3000),
+      duration: Duration(milliseconds: 300),
       vsync: this,
     );
     _scaleAnimation = CurvedAnimation(
